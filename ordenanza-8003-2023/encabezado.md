@@ -1,0 +1,5 @@
+Ordenanza Nº8003/2023
+Ordenanza Nº 8003/2023
+Coronel Suárez, 24/05/2023
+ORDENANZA
+ORDENANZA N° 8.003.-
