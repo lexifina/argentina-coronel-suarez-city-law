@@ -1,0 +1,5 @@
+Ordenanza Nº8067/2023
+Ordenanza Nº 8067/2023
+Coronel Suárez, 24/08/2023
+ORDENANZA
+ORDENANZA N° 8.067.-
