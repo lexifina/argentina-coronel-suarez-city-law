@@ -1,0 +1,5 @@
+Ordenanza Nº8189/2024
+Ordenanza Nº 8189/2024
+Coronel Suárez, 09/05/2024
+ORDENANZA
+ORDENANZA N° 8.189.-
