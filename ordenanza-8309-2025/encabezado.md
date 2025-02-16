@@ -1,0 +1,5 @@
+Ordenanza Nº8309/2024
+Ordenanza Nº 8309/2024
+Coronel Suárez, 28/11/2024
+ORDENANZA
+ORDENANZA N° 8.309.-
