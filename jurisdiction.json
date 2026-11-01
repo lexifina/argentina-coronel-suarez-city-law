@@ -1,0 +1,11 @@
+{
+  "path": "ar-b-coronel-suarez",
+  "code": "AR-B-CORONEL-SUAREZ",
+  "name": "Coronel Suárez",
+  "level": "municipality",
+  "parent": "ar-b",
+  "repo": "https://github.com/lexifina/argentina-coronel-suarez-city-law",
+  "build": "built: municipal ordinances (203 ordinances, 203 versions) from https://sibom.slyt.gba.gob.ar/cities/29",
+  "language": "es",
+  "sources": 1
+}

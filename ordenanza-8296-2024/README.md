@@ -1,0 +1,9 @@
+# Ordenanza 8296/2024: Autorizase al Departamento Ejecutivo a - - - - - - - - - - adjudicar la Licitación Pública N° 14/24, Segundo Llamado, para la contratación del Servicio de Recolección de Residuos Patogénicos del Hospital “Dr. Raúl Caccav
+
+Ordenanza 8296/2024 · 1 versions, from 2025-01-05 (latest in force: 2025-01-05) · <https://sibom.slyt.gba.gob.ar/bulletins/11849/contents/2153620>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Artículo 1 | [art-001.md](art-001.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Encabezado | [encabezado.md](encabezado.md) | 0 |  |
